@@ -1,0 +1,46 @@
+Project Title
+
+Banking Budget Management System using Python and MySQL
+
+Project Description
+
+The Banking Budget Management System is a Python-based application that uses a MySQL database to help users manage their personal finances efficiently. It enables users to maintain account information, record financial transactions, monitor income and expenses, and manage monthly budgets. The system provides a simple menu-driven interface where users can perform various operations such as adding, updating, deleting, and viewing records.
+
+The application stores all financial data securely in a MySQL database, ensuring easy retrieval and management. It also calculates the total income, total expenses, available balance, and checks whether the user's spending is within the specified budget. Additionally, users can filter transactions by date or payment mode, making it easier to analyze spending patterns and financial activities.
+
+This project demonstrates the integration of Python programming, MySQL database management, and CRUD (Create, Read, Update, Delete) operations. It is suitable for beginners learning database connectivity with Python and serves as a practical example of a personal finance management system.
+
+Features Based on  Menu
+Menu	Description
+1. Add User	Register a new user with personal details.
+2. Update User	Modify existing user information.
+3. Delete User	Remove a user from the database.
+4. Add Transaction	Record a new income or expense transaction.
+5. Update Transaction	Edit an existing transaction.
+6. Delete Transaction	Remove an incorrect transaction.
+7. View Transactions	Display all recorded transactions.
+8. Total Income	Calculate the total income earned.
+9. Total Expense	Calculate the total amount spent.
+10. Check Balance	Show the current available balance (Income − Expense).
+11. Transactions by Date	Display transactions for a selected date or date range.
+12. View Transactions by Mode	Filter transactions by payment mode (Cash, UPI, Card, Net Banking, etc.).
+13. Insert Budget	Set a monthly or category-wise budget.
+14. Check Budget	Compare expenses with the allocated budget and show the remaining budget or overspending.
+15. Delete Budget	Remove an existing budget entry.
+16. Update Budget	Modify the allocated budget amount.
+17. View Budget	Display all budget details and limits.
+Technologies Used
+Programming Language: Python
+Database: MySQL
+Database Connectivity: MySQL Connector for Python (mysql.connector)
+Interface: Command Line Interface (CLI)
+Objectives
+Manage user information securely.
+Record and organize financial transactions.
+Track income, expenses, and account balance.
+Set and monitor monthly budgets.
+Generate simple financial summaries and reports.
+Demonstrate Python–MySQL integration using database operations.
+Expected Outcome
+
+The Banking Budget Management System provides a convenient way to maintain personal financial records. It helps users track their spending habits, monitor their income, manage budgets effectively, and maintain accurate financial data through a simple and user-friendly command-line application. The project also strengthens understanding of Python programming, database design, SQL queries, and CRUD operations
